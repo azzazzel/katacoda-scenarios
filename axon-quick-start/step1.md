@@ -1,5 +1,7 @@
  
-## Run Axon Server
+# Running Axon Server
+
+### What is Axon Server
 
 Axon Server is the flagship product of AxonIQ. In a nutshell it is 
 
@@ -8,12 +10,9 @@ Axon Server is the flagship product of AxonIQ. In a nutshell it is
 
 ### Install options
 
-#### Executable JAR
-Axon Server is distributed as standalone executable JAR file that can be run anywhere Java runs. For more information on that please see the [Local Installation documentation](https://docs.axoniq.io/reference-guide/axon-server/installation/local-installation/axon-server-se)  
+ - **Executable JAR** - Axon Server is distributed as standalone executable JAR file that can be run anywhere Java runs. For more information see [Local Installation documentation](https://docs.axoniq.io/reference-guide/axon-server/installation/local-installation/axon-server-se)  
 
-#### Docker container
-AxonIQ also provides official Docker images of Axon Server that can be used on their own, with Docker Compose, Kubernetes, Cloud-Foundry, OpenShift, etc
-For more information on that please see the [Docker / K8s Installation documentation](https://docs.axoniq.io/reference-guide/axon-server/installation/docker-k8s/axon-server-se)  
+ - **Docker container** - AxonIQ also provides official Docker images that can be used on their own or with Compose, Kubernetes, Cloud-Foundry, OpenShift, etc. For more information see [Docker / K8s Installation documentation](https://docs.axoniq.io/reference-guide/axon-server/installation/docker-k8s/axon-server-se)  
 
 ## Exercise 
 
