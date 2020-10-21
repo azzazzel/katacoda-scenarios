@@ -33,7 +33,9 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
+  "environment": {
+    "uilayout": "terminal-iframe"
+  },
   "backend": {
     "imageid": "java9"
   }
