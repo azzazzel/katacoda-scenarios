@@ -34,7 +34,10 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-iframe"
+    "uilayout": "terminal-iframe",
+    "dashboards": [
+      {"name": "Axon Server Console", "port": 8024}
+    ]
   },
   "backend": {
     "imageid": "ubuntu:1804"

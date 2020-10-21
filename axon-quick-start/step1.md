@@ -18,6 +18,6 @@ For the purpose of this learning scenario we'll use the Docker image. Go to the 
 
 This will 
  - download the latest Axon Server image _(if it's not downloaded already)_
- - create a container named `axonserver` run it in a container 
+ - create a container named `axonserver`
  - start the container in the background 
  - expose ports `8024` and `8124` for clients to connect
