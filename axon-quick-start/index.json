@@ -35,7 +35,7 @@
   },
   "environment": {
     "uilayout": "terminal-iframe",
-    "uieditorpath": "/root/example",
+    "uieditorpath": "/root/giftcard-demo",
     "showide": true,
     "idePort": 23000,
     "dashboards": [
