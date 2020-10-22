@@ -36,7 +36,7 @@
   "environment": {
     "uilayout": "terminal-iframe",
     "dashboards": [
-      {"name": "Axon Server Console", "port": 8024}
+      {"name": "Dashboard", "port": 8024}
     ]
   },
   "backend": {
