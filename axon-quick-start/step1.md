@@ -24,4 +24,4 @@ This may take a while. It will
  - start the container in the background 
  - expose ports `8024` and `8124` for clients to connect
 
- 👉  Run `docker logs -f axonserver`{{execute}} to watch the server logs. When you see the `Started AxonServer in NN.NNN seconds` message, your server is up and ready. You can now move to the next step.
+👉  Run `docker logs -f axonserver`{{execute}} to watch the server logs. When you see the `Started AxonServer in NN.NNN seconds` message, your server is up and ready. You can now move to the next step.
