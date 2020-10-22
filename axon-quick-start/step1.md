@@ -1,5 +1,5 @@
  
-# Running Axon Server
+# Run Axon Server
 
 > Axon Server is the flagship product of AxonIQ. In a nutshell it is 
 >
