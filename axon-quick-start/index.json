@@ -35,6 +35,9 @@
   },
   "environment": {
     "uilayout": "terminal-iframe",
+    "uieditorpath": "/root/example",
+    "showide": true,
+    "idePort": 23000,
     "dashboards": [
       {"name": "Dashboard", "port": 8024}
     ]

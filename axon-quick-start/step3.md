@@ -11,5 +11,5 @@
 
 👉  Go to the terminal window and stop listing the docker logs by pressing `^C`{{execute ctrl-seq}} 
 
-👉  Clone the `giftcard-demo` app source code by typing `git clone https://github.com/AxonIQ/giftcard-demo.git`
+👉  Clone the `giftcard-demo` app source code by typing `git clone https://github.com/AxonIQ/giftcard-demo.git`{{execute}} 
 
