@@ -27,7 +27,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "install_kotlin_ext.sh"
     },
     "finish": {
       "text": "finish.md"
