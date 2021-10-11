@@ -20,7 +20,7 @@
       {
         "title": "Step 4",
         "text": "step4.md",
-        "code": "install_kotlin_ext.sh"
+        "courseData": "install_kotlin_ext.sh"
       },
       {
         "title": "Step 5",
@@ -28,8 +28,7 @@
       }
     ],
     "intro": {
-      "text": "intro.md",
-      "code": "install_kotlin_ext.sh"
+      "text": "intro.md"
     },
     "finish": {
       "text": "finish.md"
