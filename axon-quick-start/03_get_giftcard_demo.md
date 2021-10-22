@@ -9,5 +9,5 @@ The application comes with a simple web UI to issue and redeem gift cards.
 
 ▶️  Go to the terminal window and stop listing the docker logs by pressing `^C`{{execute ctrl-seq}}
 
-▶️  Clone the `gift card-demo` app source code by typing `git clone https://github.com/AxonIQ/giftcard-demo.git`{{execute}}
+▶️  Clone the `giftcard-demo` app source code by typing `git clone https://github.com/AxonIQ/giftcard-demo.git`{{execute}}
 

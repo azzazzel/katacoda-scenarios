@@ -1,4 +1,4 @@
-With Axon Server running in the background you can now [visit the Axon Server Dashboard](https://[[HOST_SUBDOMAIN]]-8024-[[KATACODA_HOST]].environments.katacoda.com/).
+With Axon Server running in the background you can now [visit the Axon Server UI](https://[[HOST_SUBDOMAIN]]-8024-[[KATACODA_HOST]].environments.katacoda.com/).
 
 The main view shows information about the configuration and the status of the server. In addition to that, there are a few more views:
 
