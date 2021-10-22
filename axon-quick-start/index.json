@@ -22,8 +22,8 @@
         "text": "04_explore_giftcard_demo.md"
       },
       {
-        "title": "Step 5",
-        "text": "step5.md"
+        "title": "Run the demo as monolith",
+        "text": "05_run_giftcard_demo_monolith.md"
       }
     ],
     "intro": {
@@ -41,7 +41,7 @@
     "idePort": 23000,
     "dashboards": [
       {"name": "Axon Server UI", "port": 8024},
-      {"name": "Gift card demo app", "port": 8080}
+      {"name": "Gift card UI", "port": 8080}
     ]
   },
   "backend": {
