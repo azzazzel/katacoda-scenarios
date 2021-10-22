@@ -40,7 +40,8 @@
     "showide": true,
     "idePort": 23000,
     "dashboards": [
-      {"name": "Dashboard", "port": 8024}
+      {"name": "Axon Server UI", "port": 8024},
+      {"name": "Gift card demo app", "port": 8080}
     ]
   },
   "backend": {
