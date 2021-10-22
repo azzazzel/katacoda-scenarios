@@ -7,19 +7,19 @@
     "steps": [
       {
         "title": "Run Axon Server",
-        "text": "step1.md"
+        "text": "01_install_axon_server.md"
       },
       {
         "title": "Explore Axon Server Dashboard",
-        "text": "step2.md"
+        "text": "02_explore_axon_server.md"
       },
       {
         "title": "Get the gift card demo app",
-        "text": "step3.md"
+        "text": "03_get_giftcard_demo.md"
       },
       {
         "title": "Explore the gift card demo app",
-        "text": "step4.md"
+        "text": "04_explore_giftcard_demo.md"
       },
       {
         "title": "Step 5",
