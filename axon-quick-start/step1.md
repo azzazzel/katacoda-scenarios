@@ -1,17 +1,13 @@
+Axon Server is the flagship product of AxonIQ. In a nutshell, it is
 
----
-# Run Axon Server
+- a super-efficient **Event Store** _(an append-only database for events)_
+- a **Messaging Routing Platform** specializing in handling Commands, Queries, and Events
 
-> Axon Server is the flagship product of AxonIQ. In a nutshell, it is
->
-> - a super-efficient **Event Store** _(an append-only database for events)_
-> - a **Messaging Platform** specializing in handling Commands, Queries, and Events
->
-> There are two ways to install and use Axon Server:
->
-> - **Executable JAR** - Axon Server is distributed as a standalone executable JAR file that can be run anywhere Java runs. For more information see [Local Installation documentation](https://docs.axoniq.io/reference-guide/axon-server/installation/local-installation/axon-server-se)
->
-> - **Docker container** - AxonIQ also provides official Docker images that can be used on their own or with Compose, Kubernetes, Cloud-Foundry, OpenShift, etc. For more information see [Docker / K8s Installation documentation](https://docs.axoniq.io/reference-guide/axon-server/installation/docker-k8s/axon-server-se)
+There are two ways to install and use Axon Server:
+
+- **Executable JAR** - Axon Server is distributed as a standalone executable JAR file that can be run anywhere Java runs. For more information see [Local Installation documentation](https://docs.axoniq.io/reference-guide/axon-server/installation/local-installation/axon-server-se)
+
+- **Docker container** - AxonIQ also provides official Docker images that can be used on their own or with Compose, Kubernetes, Cloud-Foundry, OpenShift, etc. For more information see [Docker / K8s Installation documentation](https://docs.axoniq.io/reference-guide/axon-server/installation/docker-k8s/axon-server-se)
 
 ## Exercise
 
