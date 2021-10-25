@@ -20,7 +20,7 @@ When you clicked `Submit` the following happened:
  - the `GiftCard` aggregate in the `command` module received the command, processed it, and applied an `IssuedEvent`
  - the `CardSummaryProjection` listened for `IssuedEvent` events, received it, updated its state, and pushed the change to all clients expecting updates on their `FetchCardSummariesQuery` queries.
 
-### Inspect the flow in Axon Server UI
+### Inspect components and messages in Axon Server UI
 
 As Axon Server is both your message router and your event store, you can use it to confirm the above story:
 
