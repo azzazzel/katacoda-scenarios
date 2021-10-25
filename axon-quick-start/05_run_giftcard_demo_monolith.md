@@ -2,12 +2,9 @@ The gift card demo is a SpringBoot based application that consists of three modu
 
 ### Run the application
 
-▶️ Go to the terminal window and type `cd giftcard-demo`{{execute}} _(or just click on the command here)_ to move to the folder where you checked the application out.
+You can run the application from the jar file _(as you will see in the next step)_ or directly from Maven leveraging the Spring Boot plugin _(as explained below)_.
 
-▶️ Type `./mvnw spring-boot:run`{{execute}} _(or just click on the command here)_ to run the application as a single monolith.
-
-
-It will take a while the first time you start the application because Maven needs to download all dependencies and build it.
+▶️ Make sure you are still in `giftcard-demo` folder and the build has completed successfully. Type `./mvnw spring-boot:run`{{execute}} _(or just click on the command here)_ to run the application as a single monolith.
 
 ### Use the application
 
