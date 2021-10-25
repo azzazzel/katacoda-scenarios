@@ -9,12 +9,12 @@ The application comes with a simple web UI to issue and redeem gift cards.
 
 ▶️  Go to the terminal window and stop listing the docker logs by pressing `^C`{{execute ctrl-seq}}
 
-▶️  Clone the `giftcard-demo` app source code by typing `git clone https://github.com/AxonIQ/giftcard-demo.git`{{execute}} _(or just click on the command here)_
+▶️  Clone the `giftcard-demo` app source code by typing `git clone https://github.com/AxonIQ/giftcard-demo.git`{{execute}}
 
 ---
 
 In the next step we'll explore the code of the application. Meanwhile let's start the build so it can download the dependencies in the background.
 
-▶️ Go to the terminal window and type `cd giftcard-demo`{{execute}} _(or just click on the command here)_
+▶️ Go to the terminal window and type `cd giftcard-demo`{{execute}}
 
-▶️ Type `./mvnw package`{{execute}} _(or just click on the command here)_ to build the application from the source code you just downloaded.
+▶️ Type `./mvnw package`{{execute}} to build the application from the source code you just downloaded.

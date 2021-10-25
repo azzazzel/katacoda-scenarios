@@ -13,7 +13,7 @@ There are two ways to install and use Axon Server:
 
 In this learning scenario, we'll use the Docker image.
 
-▶️ Go to the terminal window and type `docker run -d --name axonserver -p 8024:8024 -p 8124:8124 axoniq/axonserver`{{execute}} _(or just click on the command here)_
+▶️ Go to the terminal window and type `docker run -d --name axonserver -p 8024:8024 -p 8124:8124 axoniq/axonserver`{{execute}} _(or just click on the command here to execute it in the terminal)_
 
 The above command may take a while. It will
  - download the latest Axon Server image _(if it's not downloaded already)_
