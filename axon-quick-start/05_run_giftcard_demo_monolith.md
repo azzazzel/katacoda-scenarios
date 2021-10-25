@@ -10,7 +10,7 @@ You can run the application from the jar file _(as you will see in the next step
 
 Once it is running, you can [go to the gift card UI](https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/) _(click on "try again" if you have open it before the application started)_.
 
-▶️ In the `Issue single card` section, provide an ID _(for example `my-first-card`)_ and a value _(for example `100`)_, and click on `Submit` to generate a single gift card. The gist card should almost immediately appear in the table below.
+▶️ In the `Issue single card` section, provide an ID _(for example `my-first-card`)_ and a value _(for example `100`)_, and click on `Submit` to generate a single gift card. The gift card should almost immediately appear in the table below.
 
 ### Behind the scenes
 
