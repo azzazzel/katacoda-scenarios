@@ -24,6 +24,10 @@
       {
         "title": "Run the demo as monolith",
         "text": "05_run_giftcard_demo_monolith.md"
+      },
+      {
+        "title": "Run the demo as micro-services",
+        "text": "06_run_giftcard_demo_micro.md"
       }
     ],
     "intro": {
