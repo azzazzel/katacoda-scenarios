@@ -39,10 +39,6 @@
     "uieditorpath": "/root/giftcard-demo",
     "showide": true,
     "idePort": 23000,
-    "terminals": [
-      {"name": "Terminal 2", "target": "t2"},
-      {"name": "Terminal 3", "target": "t3"}
-    ],
     "dashboards": [
       {"name": "Axon Server UI", "port": 8024},
       {"name": "Gift card UI", "port": 8080}

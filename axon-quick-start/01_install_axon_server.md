@@ -13,7 +13,7 @@ There are two ways to install and use Axon Server:
 
 In this learning scenario, we'll use the Docker image.
 
-▶️ Go to the terminal window and type `docker run -d --name axonserver -p 8024:8024 -p 8124:8124 axoniq/axonserver`{{execute}} _(or just click on the command here to execute it in the terminal)_
+▶️ Go to the terminal window and type `docker run -d --name axonserver -p 8024:8024 -p 8124:8124 axoniq/axonserver`{{execute T1}} _(or just click on the command here to execute it in the terminal)_
 
 The above command may take a while. It will
  - download the latest Axon Server image _(if it's not downloaded already)_
@@ -21,4 +21,4 @@ The above command may take a while. It will
  - start the container in the background
  - expose ports `8024` and `8124` for clients to connect
 
-▶️ Run `docker logs -f axonserver`{{execute}} to watch the server logs. When you see the `Started AxonServer in NN.NNN seconds` message, your server is up and ready. You can now move to the next step.
+▶️ Run `docker logs -f axonserver`{{execute T1}} to watch the server logs. When you see the `Started AxonServer in NN.NNN seconds` message, your server is up and ready. You can now move to the next step.
